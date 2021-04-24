@@ -2,5 +2,3 @@ Rebase branch
 Something new
 
 sdffa
-
-To be revert
